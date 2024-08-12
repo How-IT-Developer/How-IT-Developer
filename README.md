@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mr Umer</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
-<p>I belong to a Pakistan Faisalabad </p>
-<p>I complete my Secondary education from City Cadet Scholl in Computer Science</p>
-<p>I complete my Higher Secondary  education from Superior College </p>
-<p>I am currently a student of BSCS(2022-2026)</p>
-<p>I am Learning Full Stack Developing</p>
-<p>Future Mern Dev</p>
-<p>I am Slightly Good in Front End Development</p>
-<p>I am learning Java Script right now </p>
+<ul>
+  <h1>About Me</h1>
+  <li>
+<p>I belong to a Pakistan Faisalabad </p> </li>
+  <li>
+<p>I complete my Secondary education from City Cadet Scholl in Computer Science</p></li>
+<li><p>I complete my Higher Secondary  education from Superior College </p></li>
+<li><p>I am currently a student of BSCS(2022-2026)</p></li>
+<li><p>I am Learning Full Stack Developing</p></li>
+<li><p>Future Mern Dev</p></li>
+<li><p>I am Slightly Good in Front End Development</p></li>
+<li><p>I am learning Java Script right now </p></li>
+   
+</ul>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=how-it-developer&label=Profile%20views&color=0e75b6&style=flat" alt="how-it-developer" /> </p>
 
