@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/m.umer.mustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m.umer.mustafa" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/m.umer.mustafa](https://www.linkedin.com/in/m-umer-mustafa-53654b31a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m.umer.mustafa" height="30" width="40" /></a>
 <a href="https://fb.com/mr.umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.umer" height="30" width="40" /></a>
 <a href="https://instagram.com/ch_umer_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ch_umer_it" height="30" width="40" /></a>
 </p>
